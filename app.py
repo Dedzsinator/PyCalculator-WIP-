@@ -82,7 +82,7 @@ while True:
         print("Mennyi A?")
         a = int(input(">> "))
         print("Gondolkodok...")
-        time.sleep(1.8)
+        time.sleep(0)
         c = math.sqrt(a)
         print(c)
         print("Ha újra próbálnád akkor nyomj egy M-et")
